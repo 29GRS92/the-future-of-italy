@@ -4,7 +4,6 @@
 
 This project ranks every young Italian player of the Primavera 1 2025/26 season, position by position, using statistics only.
 
-![Best XI](figures/best_xi.png)
 
 ## Scope
 
